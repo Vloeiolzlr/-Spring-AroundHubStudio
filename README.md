@@ -2,6 +2,5 @@
 
 [강의링크](https://www.youtube.com/playlist?list=PLlTylS8uB2fBOi6uzvMpojFrNe7sRmlzU)
 
-### 강의계획
-1. 졸업작품 만들기
-2. 김영한 인프런 스프링부트 강의 수강
+### 강의목표
+- RestApi를 이용한 프로젝트 협업 목표
